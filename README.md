@@ -125,3 +125,39 @@ The case studies in this portfolio demonstrate experience supporting, troublesho
 - Website backups
 - XML sitemaps
 - Permalink configuration
+
+---
+
+
+## 🎯 My Support Philosophy
+
+I believe great technical support goes beyond resolving issues—it builds trust, reduces complexity, and helps customers succeed.
+
+My approach is rooted in understanding each customer's goals, systematically investigating problems, communicating clearly throughout the process, and providing solutions that are both technically sound and easy to understand. When an issue requires collaboration or escalation, I focus on ensuring continuity, clear documentation, and a seamless customer experience.
+
+The case studies in this portfolio reflect not only the technical solutions delivered but also the problem-solving mindset, customer ownership, and communication skills applied throughout each interaction.
+
+
+---
+
+## 👋 About Me
+
+My career began in digital marketing and online freelancing, where I worked as a content and copywriter before transitioning into customer-facing roles supporting businesses online. As my experience grew, I took on responsibilities in email marketing, sales support, website operations, and customer support, helping customers navigate domains, websites, and digital products.
+
+These experiences sparked my interest in solving technical problems and helping customers succeed, leading me to transition into full-time technical support. Today, I specialize in investigating technical issues, troubleshooting complex customer problems, and delivering clear, solution-oriented support while collaborating across teams to resolve challenging cases.
+
+Throughout this journey, I've developed a customer-first approach grounded in analytical problem-solving, effective communication, and ownership. This portfolio showcases that approach through real-world case studies covering technical troubleshooting, web technologies, SaaS platforms, e-commerce, domains, email systems, and third-party integrations.
+
+I'm passionate about helping customers succeed through exceptional technical support and am actively seeking opportunities in Technical Support, Technical Support Engineering, Product Support, Customer Success, and related roles.
+
+
+---
+
+## 📫 Connect With Me
+
+Thank you for taking the time to explore my portfolio.
+
+If you'd like to discuss my experience or opportunities in Technical Support, Product Support, Customer Success, or related roles, I'd be happy to connect.
+
+- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jacob-samuel-1a001b199/)
+- **GitHub:** https://github.com/your-username
