@@ -1,4 +1,4 @@
 # Technical-Customer-Support-Portfolio
 Welcome to my Technical Customer Support Portfolio. This is a curated collection of real-world case studies showcasing how I investigate, troubleshoot, and resolve technical issues while delivering exceptional customer experiences. 
 Drawing from my hands-on experience supporting websites, domains, DNS, email, eCommerce, WordPress, and third-party integrations, this portfolio demonstrates my technical problem-solving, customer communication, ownership, and decision-making skills across a wide range of support scenarios.
-Whether guiding customers through complex technical issues, recommending the right solutions, or collaborating with internal teams to resolve platform challenges, each case study reflects my approach to providing clear, customer-focused technical support.
+Whether guiding customers through complex technical issues, recommending the right solutions/products, or collaborating with internal teams to resolve platform challenges, each case study reflects my approach to providing clear, customer-focused technical support.
