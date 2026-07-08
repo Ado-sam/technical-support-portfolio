@@ -40,3 +40,88 @@ This portfolio demonstrates experience across a broad range of technical support
 - Ecommerce support
 - Billing and subscription support
 - Escalation management and cross-functional collaboration
+- Product recommendation and upselling
+
+- ---
+
+## 💻 Technical Ecosystems & Technologies
+
+The case studies in this portfolio demonstrate experience supporting, troubleshooting, and guiding customers across a wide range of technologies, platforms, protocols, and third-party services.
+
+### 🌐 Website Platforms & Content Management
+- **WordPress**
+- WordPress.com
+- WooCommerce
+- Wix
+- GoDaddy Website Builder
+
+### 🌍 Domains, DNS & Web Infrastructure
+- Domain registration
+- Domain transfers
+- Domain mapping
+- DNS records
+- Nameservers
+- DNS propagation
+- SSL/TLS certificates
+- Content Delivery Networks (CDNs)
+
+### 📧 Email Systems & Productivity
+- **Microsoft 365**
+- **Google Workspace**
+- Titan Email
+- SMTP
+- Email forwarding
+- MX records
+- SPF
+- DKIM
+- DMARC
+
+### 🛒 Ecommerce & Payments
+- **WooCommerce**
+- WooCommerce Payments
+- WooCommerce Subscriptions
+- Stripe
+- PayPal
+- Google Pay
+- Apple Pay
+
+### 📈 Analytics & Marketing
+- Google Analytics 4 
+- WordPress.com Stats
+- Blaze
+
+### 🚀 Performance & Optimization
+- Jetpack
+- Jetpack Boost
+- Jetpack Site Accelerator
+- Website caching
+- CSS troubleshooting
+- Core Web Vitals
+
+### 🔐 Security & Identity
+- Two-factor authentication (2FA)
+- User roles and permissions
+- Password recovery
+- Account recovery
+- ICANN domain verification
+
+### 🔌 Third-Party Integrations
+- **Cloudflare**
+- Rank Math SEO
+- WPForms
+- Gravity Forms
+- Smart Slider 3
+- MetaSlider
+- Wordfence
+- IQ Block Country
+- Blogger Importer Extended
+
+### 🔄 Website Operations & Management
+- Website migrations
+- Site imports and exports
+- Theme management
+- Plugin management
+- Staging environments
+- Website backups
+- XML sitemaps
+- Permalink configuration
