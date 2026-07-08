@@ -21,3 +21,22 @@ Select a category below to explore real-world technical support case studies dem
 - [Customer Experience & Retention](./Customer-Experience-and-Retention/)
 - [Proactive Ownership & Effective Escalation](./Proactive-Ownership-and-Effective-Escalation/)
 - [WordPress Troubleshooting](./WordPress-Troubleshooting/)
+
+- ---
+
+## 🛠️ Technical Competencies
+
+This portfolio demonstrates experience across a broad range of technical support functions, including:
+
+- Technical troubleshooting and issue investigation
+- Root cause analysis and systematic problem-solving
+- Customer communication and expectation management
+- Product guidance and solution consulting
+- Account access, authentication, and security support
+- Domain and DNS configuration
+- Email setup and delivery troubleshooting
+- Website performance optimization
+- Third-party integration support
+- Ecommerce support
+- Billing and subscription support
+- Escalation management and cross-functional collaboration
