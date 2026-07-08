@@ -160,4 +160,4 @@ Thank you for taking the time to explore my portfolio.
 If you'd like to discuss my experience or opportunities in Technical Support, Product Support, Customer Success, or related roles, I'd be happy to connect.
 
 - **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jacob-samuel-1a001b199/)
-- **GitHub:** https://github.com/your-username
+- **GitHub:** https://github.com/ado-sam
