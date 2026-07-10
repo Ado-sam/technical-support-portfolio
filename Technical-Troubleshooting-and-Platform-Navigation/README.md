@@ -27,4 +27,4 @@ The case studies reflect transferable technical support skills applicable across
 
 ---
 
-**← Return to the [Technical Support Portfolio](../README.md)**
+**← Return to the [Technical Support Portfolio](./README.md)**
