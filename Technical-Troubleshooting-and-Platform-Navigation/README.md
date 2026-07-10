@@ -24,7 +24,7 @@ The case studies reflect transferable technical support skills applicable across
 | Case Study | Summary |
 |------------|---------|
 | *[Resolving Apparent DNS Failure.](./resolving-apparent-dns-failure.md)*| Identified that a site's inaccessibility was caused by its private visibility setting rather than DNS propagation, resolving the issue through platform configuration troubleshooting.| 
-| *[Diagnosing Website Performance Issues.](./diagnosing-website-performance-issues.md)* | oijij  |
+| *[Diagnosing Website Performance Issues.](./diagnosing-website-performance-issues.md)* | Investigated complex website performance issues by distinguishing infrastructure-related network behavior from site-level problems, providing targeted recommendations and actionable diagnostic evidence for engineering. |
 
 ---
 
