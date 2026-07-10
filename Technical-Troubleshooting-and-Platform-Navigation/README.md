@@ -23,7 +23,7 @@ The case studies reflect transferable technical support skills applicable across
 
 | Case Study | Summary |
 |------------|---------|
-| *[Resolving Apparent DNS Failure.] (./resolving-apparent-dns-failure)* | Identified that a site's inaccessibility was caused by its private visibility setting rather than DNS propagation, resolving the issue through platform configuration troubleshooting. |
+| *[Resolving Apparent DNS Failure.](./resolving-apparent-dns-failure)* | Identified that a site's inaccessibility was caused by its private visibility setting rather than DNS propagation, resolving the issue through platform configuration troubleshooting. |
 
 ---
 
