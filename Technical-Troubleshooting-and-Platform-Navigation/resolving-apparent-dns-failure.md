@@ -24,5 +24,5 @@ Efficient technical investigation
 
 
 
-⬅️ **Back to Technical Troubleshooting & Platform Navigation**
+⬅️ **Back to [Technical Troubleshooting & Platform Navigation](./README.md)**
 
