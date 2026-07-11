@@ -24,4 +24,4 @@ Determine whether the reply failure originated within WordPress.com's email infr
 * Third-party diagnosis
 * Customer communication
 
-⬅️ **Back to [Technical Troubleshooting & Platform Navigation](./README.md)**
+⬅️ **Back to [Technical Investigations And Root Cause Analysis](./README.md)**
