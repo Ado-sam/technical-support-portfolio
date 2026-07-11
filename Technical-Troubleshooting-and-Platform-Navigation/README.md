@@ -27,7 +27,7 @@ The case studies reflect transferable technical support skills applicable across
 | *[Diagnosing Website Performance Issues.](./diagnosing-website-performance-issues.md)* | Investigated complex website performance issues by distinguishing infrastructure-related network behavior from site-level problems, providing targeted recommendations and actionable diagnostic evidence for engineering. |
 |  *[Diagnosing A Dashboard Plugin Conflict.](./diagnosing-a-dashboard-plugin-conflict.md)* | Systematically diagnosed a plugin conflict causing widespread dashboard failures by isolating JavaScript errors through structured troubleshooting while minimizing disruption to the live site.|
 | *[Diagnosing The Cause Of A Critical Error.](./diagnosing-the-cause-of-a-critical-error.md)* | Determined that a reported critical website error originated on a self-hosted WordPress site, clarified hosting responsibilities, and directed the customer to the appropriate support provider.|
-| *[Diagnosing a Third-Party Email Delivery Issue.](./supporting-a-third-party-email-delivery-issue.md) | Identified that email reply failures were caused by a third-party Yahoo Mail outage rather than WordPress.com, preventing unnecessary troubleshooting through cross-platform analysis. |
+| *[Supporting a Third-Party Email Delivery Issue.](./supporting-a-third-party-email-delivery-issue.md) | Identified that email reply failures were caused by a third-party Yahoo Mail outage rather than WordPress.com, preventing unnecessary troubleshooting through cross-platform analysis. |
 
 
 ---
