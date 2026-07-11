@@ -1,4 +1,4 @@
-# Technical Troubleshooting & Platform Navigation
+# Technical Investigations & Root Cause Analysis
 
 ## Overview
 
