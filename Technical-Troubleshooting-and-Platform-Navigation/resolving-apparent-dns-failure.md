@@ -14,13 +14,14 @@ Determine whether the problem involved DNS propagation or another platform confi
 * Explained the distinction between domain configuration and website visibility.
 
 ## Result
-The customer was directed to the actual source of the problem instead of continuing to wait for unnecessary DNS propagation. The investigation resolved the issue through a simple visibility setting rather than further DNS troubleshooting.
+* The customer was directed to the actual source of the problem instead of continuing to wait for unnecessary DNS propagation. 
+* The investigation resolved the issue through a simple visibility setting rather than further DNS troubleshooting.
 
 ## Skills Demonstrated
-Root cause analysis
-DNS troubleshooting
-Platform expertise
-Efficient technical investigation
+* Root cause analysis
+* DNS troubleshooting
+* Platform expertise
+* Efficient technical investigation
 
 
 
