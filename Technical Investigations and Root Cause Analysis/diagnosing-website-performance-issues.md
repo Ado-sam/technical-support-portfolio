@@ -34,4 +34,4 @@ membership login functionality remained affected.
 * Long-running incident management
 
 
-⬅️ **Back to [Technical Troubleshooting & Platform Navigation](./README.md)**
+⬅️ **Back to [Technical Investigations And Root Cause Analysis](./README.md)**
