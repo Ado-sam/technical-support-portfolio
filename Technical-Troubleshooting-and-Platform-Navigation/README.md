@@ -26,6 +26,7 @@ The case studies reflect transferable technical support skills applicable across
 | *[Resolving Apparent DNS Failure.](./resolving-apparent-dns-failure.md)*| Identified that a site's inaccessibility was caused by its private visibility setting rather than DNS propagation, resolving the issue through platform configuration troubleshooting.| 
 | *[Diagnosing Website Performance Issues.](./diagnosing-website-performance-issues.md)* | Investigated complex website performance issues by distinguishing infrastructure-related network behavior from site-level problems, providing targeted recommendations and actionable diagnostic evidence for engineering. |
 |  *[Diagnosing A Dashboard Plugin Conflict.](./diagnosing-a-dashboard-plugin-conflict.md)* | Systematically diagnosed a plugin conflict causing widespread dashboard failures by isolating JavaScript errors through structured troubleshooting while minimizing disruption to the live site.|
+| *[Diagnosing The Cause Of A Critical Error.](./diagnosing-the-cause-of-a-critical-error.md)* | Determined that a reported critical website error originated on a self-hosted WordPress site, clarified hosting responsibilities, and directed the customer to the appropriate support provider.|
 
 ---
 
