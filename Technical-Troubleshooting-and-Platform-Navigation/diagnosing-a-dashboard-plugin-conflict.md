@@ -16,7 +16,8 @@ Determine the root cause of the widespread dashboard failures, identify whether 
 * Structured the troubleshooting process to avoid unnecessary changes and minimize disruption to the customer's production site.
 
 ## **Result**
-The customer's dashboard functionality was successfully restored after isolating the plugin conflict. The systematic troubleshooting process enabled the customer to identify the conflicting plugin without unnecessary downtime, allowing them to continue using the dashboard while determining the appropriate long-term resolution.
+* The customer's dashboard functionality was successfully restored after isolating the plugin conflict.
+* The systematic troubleshooting process enabled the customer to identify the conflicting plugin without unnecessary downtime, allowing them to continue using the dashboard while determining the appropriate long-term resolution.
 
 ## **Skills Demonstrated**
 * Plugin conflict diagnosis
