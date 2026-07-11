@@ -20,18 +20,18 @@ membership login functionality remained affected.
 * Consolidated the customer's findings into a structured engineering update, clearly distinguishing resolved behaviour from remaining issues to support ongoing infrastructure analysis.
 
 ## Result
-The customer confirmed that recent platform changes had improved overall performance, with text-based pages loading correctly while the remaining issues were isolated to image-heavy content and membership login functionality.
-The investigation provided engineering with high-quality diagnostic evidence demonstrating that the problem was not fully resolved but had narrowed significantly. Rather than restarting troubleshooting or making unnecessary changes to the customer's live website, the support interaction advanced a long-running infrastructure investigation by identifying exactly which components continued to be affected.
+* The customer confirmed that recent platform changes had improved overall performance, with text-based pages loading correctly while the remaining issues were isolated to image-heavy content and membership login functionality.
+* The investigation provided engineering with high-quality diagnostic evidence demonstrating that the problem was not fully resolved but had narrowed significantly. Rather than restarting troubleshooting or making unnecessary changes to the customer's live website, the support interaction advanced a long-running infrastructure investigation by identifying exactly which components continued to be affected.
 
 ## Skills Demonstrated
-Infrastructure troubleshooting
-CDN optimization
-Networking fundamentals
-Root cause analysis
-Engineering collaboration
-Technical communication
-Customer expectation management
-Long-running incident management
+* Infrastructure troubleshooting
+* CDN optimization
+* Networking fundamentals
+* Root cause analysis
+* Engineering collaboration
+* Technical communication
+* Customer expectation management
+* Long-running incident management
 
 
 ⬅️ **Back to [Technical Troubleshooting & Platform Navigation](./README.md)**
