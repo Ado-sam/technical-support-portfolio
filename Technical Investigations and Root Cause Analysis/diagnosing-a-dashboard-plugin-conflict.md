@@ -25,4 +25,4 @@ Determine the root cause of the widespread dashboard failures, identify whether 
 * Root cause analysis
 
 
-⬅️ **Back to [Technical Troubleshooting & Platform Navigation](./README.md)**
+⬅️ **Back to [Technical Investigations And Root Cause Analysis](./README.md)**
