@@ -12,9 +12,9 @@ Review the existing investigation, determine whether new evidence pointed to imp
 * Recognized that the investigation had progressed beyond normal site-level diagnostics and formed part of a broader infrastructure investigation.
 * Analyzed the customer's latest testing results and identified that recent infrastructure changes had partially improved performance.
 * Determined that:
-** text-heavy pages were now loading normally,
-** image-heavy pages continued to experience delays,
-** membership login functionality remained affected.
+text-heavy pages were now loading normally,
+image-heavy pages continued to experience delays,
+membership login functionality remained affected.
 * Recommended re-enabling Jetpack Site Accelerator after it had previously been disabled solely for diagnostic purposes, explaining that it could once again provide CDN and image optimization benefits.
 * Deliberately avoided recommending that the customer disable their production membership plugin, recognizing that doing so would unnecessarily disrupt live users without producing meaningful diagnostic value.
 * Consolidated the customer's findings into a structured engineering update, clearly distinguishing resolved behaviour from remaining issues to support ongoing infrastructure analysis.
