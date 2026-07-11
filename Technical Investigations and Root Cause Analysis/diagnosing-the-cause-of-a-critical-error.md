@@ -23,4 +23,4 @@ The investigation quickly established that the issue was outside WordPress.com's
 * Scope management
 * Customer education
 
-⬅️ **Back to [Technical Troubleshooting & Platform Navigation](./README.md)**
+⬅️ **Back to [Technical Investigations And Root Cause Analysis](./README.md)**
