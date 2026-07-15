@@ -32,4 +32,4 @@ The case studies reflect transferable technical support skills applicable across
 
 ---
 
-**← Return to the [Technical Support Portfolio](./Technical-Support-Portfolio/)**
+**← Return to the [Technical Support Portfolio](./Technical-Customer-Support-Portfolio/)**
