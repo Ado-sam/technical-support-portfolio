@@ -119,6 +119,28 @@ The case studies in this portfolio demonstrate experience supporting, troublesho
 ---
 
 
+
+## ⭐ Featured Case Studies
+
+Explore a selection of case studies that highlight technical troubleshooting, customer communication, and problem-solving across different support scenarios.
+
+- **Restoring Site Styling After Migration**  
+  Diagnosed and resolved website styling issues following a domain migration by identifying asset-loading and configuration problems.  
+  → *Website Performance*
+
+- **Resolving Microsoft 365 Email Delivery Issues**  
+  Investigated email routing and DNS configuration to restore reliable email delivery.  
+  → *Email Support*
+
+- **Troubleshooting WooCommerce Payment Failures**  
+  Identified the root cause of recurring payment issues through systematic investigation and platform analysis.  
+  → *Ecommerce*
+
+- **Resolving Domain & DNS Configuration Issues**  
+  Guided the customer through DNS troubleshooting and propagation checks to restore website functionality.  
+  → *Domains & DNS*
+
+
 ## 🎯 My Support Philosophy
 
 I believe great technical support goes beyond resolving issues—it builds trust, reduces complexity, and helps customers succeed.
