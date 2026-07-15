@@ -30,3 +30,5 @@ The customer's ownership of the account was fully restored, unauthorized access 
 * Security investigation
 * Customer reassurance
 * Incident response
+
+⬅️ **Back to [Identity & Security Access Recovery](./README.md)**
