@@ -10,6 +10,7 @@ Whether guiding customers through complex technical issues, recommending the rig
 Select a category below to explore real-world technical support case studies demonstrating troubleshooting, customer communication, and issue resolution.
 
 - [Technical Investigations & Root Cause Analysis](./Technical%20Investigations%20and%20Root%20Cause%20Analysis/)
+- [Identity & Security Access Recovery](./Identity-and-Security-Access-Recovery/)
 
 
 - ---
