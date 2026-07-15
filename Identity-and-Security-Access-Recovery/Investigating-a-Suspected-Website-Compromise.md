@@ -20,7 +20,7 @@ Determine whether the website had been compromised, independently verify the rep
 
 #### **Result**
 
-The investigation found no evidence that the website had been compromised, and the reported redirects could not be reproduced. By independently verifying the issue before drawing conclusions, unnecessary escalation was avoided while the customer received practical security recommendations and reassurance. The investigation remained evidence-driven, with additional information requested should new evidence become available.
+The investigation found no evidence that the website had been compromised, and the reported redirects could not be reproduced. By independently verifying the issue before concluding, unnecessary escalation was avoided while the customer received practical security recommendations and reassurance. The investigation remained evidence-driven, with additional information requested should new evidence become available.
 
 #### **Skills Demonstrated**
 
@@ -31,3 +31,4 @@ The investigation found no evidence that the website had been compromised, and t
 * Security best practices
 
 
+⬅️ **Back to [Identity & Security Access Recovery](./README.md)**
