@@ -10,17 +10,7 @@ Whether guiding customers through complex technical issues, recommending the rig
 Select a category below to explore real-world technical support case studies demonstrating troubleshooting, customer communication, and issue resolution.
 
 - [Technical Investigations & Root Cause Analysis](./Technical%20Investigations%20and%20Root%20Cause%20Analysis/)
-- [Account Access, Recovery & Security](./Account-Access-Recovery-and-Security/)
-- [Domains & DNS](./Domains-and-DNS/)
-- [Email Support](./Email-Support/)
-- [Website Performance](./Website-Performance/)
-- [Third-Party Integration & Issue Resolution](./Third-Party-Integration-and-Issue-Resolution/)
-- [Ecommerce](./Ecommerce/)
-- [Solution Consulting & Upgrade Guidance](./Solution-Consulting-and-Upgrade-Guidance/)
-- [Billing & Refund Issues](./Billing-and-Refund-Issues/)
-- [Customer Experience & Retention](./Customer-Experience-and-Retention/)
-- [Proactive Ownership & Effective Escalation](./Proactive-Ownership-and-Effective-Escalation/)
-- [WordPress Troubleshooting](./WordPress-Troubleshooting/)
+
 
 - ---
 
