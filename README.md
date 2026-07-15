@@ -9,7 +9,7 @@ Whether guiding customers through complex technical issues, recommending the rig
 
 Select a category below to explore real-world technical support case studies demonstrating troubleshooting, customer communication, and issue resolution.
 
-- [Technical Troubleshooting & Root Cause Analysis](./Technical-Troubleshooting-and-Root-Cause-Analysis/)
+- [Technical Investigations & Root Cause Analysis](./Technical-Investigations-and-Root-Cause-Analysis/)
 - [Account Access, Recovery & Security](./Account-Access-Recovery-and-Security/)
 - [Domains & DNS](./Domains-and-DNS/)
 - [Email Support](./Email-Support/)
