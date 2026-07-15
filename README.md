@@ -119,7 +119,6 @@ The case studies in this portfolio demonstrate experience supporting, troublesho
 ---
 
 
-
 ## ⭐ Featured Case Studies
 
 Explore a selection of case studies that highlight technical troubleshooting, customer communication, and problem-solving across different support scenarios.
@@ -140,6 +139,8 @@ Explore a selection of case studies that highlight technical troubleshooting, cu
   Guided the customer through DNS troubleshooting and propagation checks to restore website functionality.  
   → *Domains & DNS*
 
+
+---
 
 ## 🎯 My Support Philosophy
 
