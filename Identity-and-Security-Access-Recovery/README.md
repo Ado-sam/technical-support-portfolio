@@ -16,7 +16,7 @@ This category contains real-world technical support case studies demonstrating e
 
 | Case Study | Summary |
 |------------|---------|
-| **[Recovering a Compromised Account](./Recovering-a-Compromised-Account)** | Restored ownership of a compromised WordPress.com account by verifying identity, securing two-factor authentication, confirming unauthorized access had been removed, and strengthening the customer's account security. |
+| **[Recovering a Compromised Account](./Recovering-a-Compromised-Account.md)** | Restored ownership of a compromised WordPress.com account by verifying identity, securing two-factor authentication, confirming unauthorized access had been removed, and strengthening the customer's account security. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 
