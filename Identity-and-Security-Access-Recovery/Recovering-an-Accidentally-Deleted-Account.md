@@ -28,5 +28,5 @@ The customer received a clear, step-by-step recovery plan while restoration was 
 * Time-sensitive troubleshooting
 * Customer guidance
 
-⬅️ **Back to [Identity & Security Access Recovery](./README.md)**
+⬅️ **Return to [Identity & Security Access Recovery](./README.md)**
 
