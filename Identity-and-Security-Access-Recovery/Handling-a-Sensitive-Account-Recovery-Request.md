@@ -28,4 +28,4 @@ The customer received a secure and structured path for recovering access without
 * Privacy protection
 * Sensitive communication
 
-⬅️ **Back to [Identity & Security Access Recovery](./README.md)**
+⬅️ **Return to [Identity & Security Access Recovery](./README.md)**
