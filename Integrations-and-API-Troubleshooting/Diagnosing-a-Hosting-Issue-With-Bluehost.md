@@ -1,4 +1,4 @@
-## Diagnosing a Third-Party Hosting Issue
+## Diagnosing a Hosting Issue With Bluehost
 
 #### Situation
 A customer reported that their website displayed a "There has been a critical error on this website" message and they could no longer access the WordPress admin dashboard (wp-admin). The customer believed the website was hosted on WordPress.com and expected the issue to be resolved through WordPress.com support.
