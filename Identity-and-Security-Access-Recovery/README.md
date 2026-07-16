@@ -24,4 +24,4 @@ This category contains real-world technical support case studies demonstrating e
 
 ---
 
-**⬅️ Return to the [Technical Support Portfolio](../README.md)
+**⬅️ Return to the [Technical Support Portfolio](../README.md)**
