@@ -16,7 +16,7 @@ This category contains real-world technical support case studies demonstrating e
 
 | Case Study | Summary |
 |------------|---------|
-| **[Diagnosing a Third-Party Hosting Issue](./Diagnosing-a-Third-Party-Hosting-Issue)** | Determined that a critical website error originated on an externally hosted WordPress site, identified the responsible hosting provider, and redirected the customer to the appropriate support channel with a clear diagnostic context. |
+| **[Diagnosing a Third-Party Hosting Issue](./Diagnosing-a-Third-Party-Hosting-Issue.md)** | Determined that a critical website error originated on an externally hosted WordPress site, identified the responsible hosting provider, and redirected the customer to the appropriate support channel with a clear diagnostic context. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 
