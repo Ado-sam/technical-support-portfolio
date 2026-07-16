@@ -20,7 +20,7 @@ This category contains real-world technical support case studies demonstrating e
 | **[Investigating a Suspected Website Compromise](./Investigating-a-Suspected-Website-Compromise.md)** | Investigated reports of a potential website compromise by independently verifying navigation behavior, finding no evidence of malicious redirects, and providing proactive security recommendations. |
 | **[Recovering an Accidentally Deleted Account](./Recovering-an-Accidentally-Deleted-Account.md)** | Guided a customer through the time-sensitive recovery of a deleted WordPress.com account and website by identifying the available recovery window and providing a structured restoration process. |
 | **[Handling a Sensitive Account Recovery Request](./Handling-a-Sensitive-Account-Recovery-Request.md)** | Guided a customer through a secure account recovery process while protectin sensitive account information, explaining identity verification requirements, and maintaining compliance with privacy policies. |
-| **[Resolving Admin Access Issue Through Domain COnfiguration](./Resolving-Admin-Access-Issue-Through-Domain-Configuration)** | Identified a primary domain misconfiguration as the cause of an admin access issue, correcting an initial misdiagnosis and providing a targeted recovery path without unnecessary troubleshooting. |
+| **[Resolving Admin Access Issue Through Domain COnfiguration](./Resolving-Admin-Access-Issue-Through-Domain-Configuration.md)** | Identified a primary domain misconfiguration as the cause of an admin access issue, correcting an initial misdiagnosis and providing a targeted recovery path without unnecessary troubleshooting. |
 
 ---
 
