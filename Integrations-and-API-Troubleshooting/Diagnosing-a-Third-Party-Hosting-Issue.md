@@ -17,5 +17,15 @@ Determine whether the issue fell within WordPress.com's support scope, identify 
 #### Result
 The investigation established that the critical error originated outside the WordPress.com hosting environment, preventing unnecessary troubleshooting within the wrong support channel. The customer received an accurate diagnosis and was redirected to the hosting provider with the tools and access required to restore the website, avoiding further delays and confusion.
 
+#### Skills Demonstrated
+* Third-party troubleshooting
+* Hosting environment diagnosis
+* Scope management
+* Cross-platform investigation
+* Technical triage
+* Customer education
+* Root cause analysis
+* Support routing and escalation
+
 ---
 ⬅️ **Return to [Integrations & API Troubleshooting](./README.md)**
