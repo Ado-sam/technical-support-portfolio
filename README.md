@@ -11,7 +11,7 @@ Select a category below to explore real-world technical support case studies dem
 
 - [Technical Investigations & Root Cause Analysis](./Technical%20Investigations%20and%20Root%20Cause%20Analysis/)
 - [Identity & Security Access Recovery](./Identity-and-Security-Access-Recovery/)
-- [Integrations & API TRoubleshooting](./Integrations-and-API-Troubleshooting/)
+- [Integrations & API Troubleshooting](./Integrations-and-API-Troubleshooting/)
 
 
 - ---
