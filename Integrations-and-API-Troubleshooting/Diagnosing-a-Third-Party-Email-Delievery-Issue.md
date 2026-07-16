@@ -1,4 +1,4 @@
-## **Diagnosing a Third-Party Email Service Issue**
+## **Diagnosing a Third-Party Email Delivery Issue**
 
 #### **Situation**
 
