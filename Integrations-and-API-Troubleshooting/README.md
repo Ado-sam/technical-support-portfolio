@@ -20,8 +20,7 @@ This category contains real-world technical support case studies demonstrating e
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 
-**⬅️ Return to the [Technical Support Portfolio](../README.md)
+--
 
----
+**⬅️ Return to the [Technical Support Portfolio](../README.md)**
 
-⬅️ **Back to the [Portfolio Homepage](../README.md)**
