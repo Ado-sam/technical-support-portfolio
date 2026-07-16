@@ -25,5 +25,5 @@ Determine whether the problem involved DNS propagation or another platform confi
 
 
 
-⬅️ **Back to [Technical Investigations And Root Cause Analysis](./README.md)**
+⬅️ **Return to [Technical Investigations And Root Cause Analysis](./README.md)**
 
