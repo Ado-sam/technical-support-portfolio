@@ -32,4 +32,4 @@ The investigation identified the site's Primary Domain configuration as the root
 * Hosting architecture knowledge
 * Correcting AI-generated assumptions
 
-⬅️ **Back to [Identity & Security Access Recovery](./README.md)**
+⬅️ **Return to [Identity & Security Access Recovery](./README.md)**
