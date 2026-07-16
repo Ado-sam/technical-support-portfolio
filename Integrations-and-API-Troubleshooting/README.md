@@ -18,7 +18,7 @@ This category contains real-world technical support case studies demonstrating e
 |------------|---------|
 | **[Diagnosing a Third-Party Hosting Issue](./Diagnosing-a-Third-Party-Hosting-Issue.md)** | Determined that a critical website error originated on an externally hosted WordPress site, identified the responsible hosting provider, and redirected the customer to the appropriate support channel with a clear diagnostic context. |
 | **[Resolving a Third-Party Email Delivery Issue](./Resolving-a-Third-Party-Email-Delievery-Issue.md)** | Determined that email reply failures were caused by a third-party Yahoo Mail outage rather than WordPress.com, using cross-platform testing to eliminate unnecessary troubleshooting and identify the true source of the issue. |
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Diagnosing Website Ownership on Amazon AWS](./Diagnosing-Website-Ownership-on-Amazon-AWS.md)** | One-sentence description of the issue and resolution. | Determined that a customer's website was hosted on Amazon AWS rather than WordPress.com, clarified the distinction between domain registration and hosting, and Provided a clear recovery path for retrieving and migrating site. |
 
 ---
 
