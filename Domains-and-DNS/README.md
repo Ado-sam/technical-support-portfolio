@@ -13,7 +13,7 @@ This category contains real-world technical support case studies demonstrating e
 ## Case Studies
 | Case Study | Summary |
 |------------|---------|
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Resolving Domain Migration & Account Configuration Issues](./Resolving-Domain-Migration-and-Account-Configuration-Issues.md)** | Resolved a complex account involving domain transfers, hosting plan changes, and multiple websites by aligning the correct domain, plan, and site configuration while simplifying the customer's overall setup. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 
