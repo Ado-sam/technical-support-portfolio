@@ -1,4 +1,4 @@
-### **Restoring Subscriber Email Delivery**
+## **Restoring Subscriber Email Delivery**
 
 #### **Situation**
 
