@@ -14,7 +14,7 @@ This category contains real-world technical support case studies demonstrating e
 
 | Case Study | Summary |
 |------------|---------|
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Restoring Subscriber Email Delivery](./Restoring-Subscriber-Email-Delivery.md)** | Investigated subscriber email delivery failures by distinguishing automated verification from standard email behavior, identifying the recipient's email provider as the source of the issue rather than WordPress.com. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 
