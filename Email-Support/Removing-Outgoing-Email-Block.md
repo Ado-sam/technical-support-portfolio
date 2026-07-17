@@ -1,4 +1,4 @@
-### **Removing Outgoing Email Block**
+## **Removing Outgoing Email Block**
 
 #### **Situation**
 
