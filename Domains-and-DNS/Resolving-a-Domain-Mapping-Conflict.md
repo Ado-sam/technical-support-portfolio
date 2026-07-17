@@ -26,4 +26,3 @@ The investigation identified a domain mapping conflict as the true cause of the 
 ---
 ⬅️ **Return to [Domains and DNS](./README.md)** 
 
-This version removes all identifying information while retaining the technical substance, making it more suitable for a public GitHub portfolio.
