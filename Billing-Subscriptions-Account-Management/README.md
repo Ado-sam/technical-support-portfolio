@@ -17,7 +17,7 @@ This category contains real-world technical support case studies demonstrating e
 | Case Study | Summary |
 |------------|---------|
 | **[Managing a Subscription Downgrade and Refund](./Managing-a-Subscription-Downgrade-and-Refund.md)** | Managed a complex subscription downgrade and refund by clarifying service dependencies, confirming billing outcomes, and ensuring the customer's domain and email services remained uninterrupted during their migration to Wix. |
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Retaining a Customer Through a Strategic Plan Downgrade](./Retaining-a-Customer-Through-a-Strategic-Plan-Downgrade.md)** | Prevented potential customer churn by identifying a downgrade path that preserved plugin functionality, addressing pricing concerns, and helping an agency adopt a phased migration strategy for multiple client websites. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 
 
