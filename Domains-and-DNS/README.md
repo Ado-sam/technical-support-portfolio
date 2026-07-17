@@ -14,7 +14,7 @@ This category contains real-world technical support case studies demonstrating e
 | Case Study | Summary |
 |------------|---------|
 | **[Resolving Domain Migration & Account Configuration Issues](./Resolving-Domain-Migration-and-Account-Configuration-Issues.md)** | Resolved a complex account involving domain transfers, hosting plan changes, and multiple websites by aligning the correct domain, plan, and site configuration while simplifying the customer's overall setup. |
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Supporting a Custom Domain Configuration Issue](./Supporting-a-Custom-Domain-Configuration-Issue.md)** | Determined that a post-migration domain issue was caused by a primary domain configuration rather than DNS, enabling the customer to correctly route their website through the custom domain. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 
 
