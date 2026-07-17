@@ -27,4 +27,5 @@ The customer's domain, hosting plan, and website configuration were successfully
 * Cross-agent continuity
 * Customer education
 
+---
 ⬅️ **Return to [Domains and DNS](./README.md)** 
