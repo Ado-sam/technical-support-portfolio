@@ -16,7 +16,7 @@ This category contains real-world technical support case studies demonstrating e
 
 | Case Study | Summary |
 |------------|---------|
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Preserving a Long-Standing Website Through Recovery Planning](./Preserving-a-Long-Standing-Website-Through-Recovery-Planning.md)** | Turned a potentially lost 20-year website into a structured recovery effort by providing multiple recovery paths, setting clear expectations, and proactively guiding the customer toward preserving their content despite account recovery limitations. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 | **Case Study Title** | One-sentence description of the issue and resolution. |
 
