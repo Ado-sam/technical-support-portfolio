@@ -16,7 +16,7 @@ This category contains real-world technical support case studies demonstrating e
 |------------|---------|
 | **[Restoring Subscriber Email Delivery](./Restoring-Subscriber-Email-Delivery.md)** | Investigated subscriber email delivery failures by distinguishing automated verification from standard email behavior, identifying the recipient's email provider as the source of the issue rather than WordPress.com. |
 | **[Removing Outgoing Email Block](./Removing-Outgoing-Email-Block.md)** | Restored a site's outgoing email service by identifying spam-related delivery blocks, guiding the customer through remediation, and coordinating with engineering to reinstate transactional email functionality. |
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Resolving Email Authentication Issue Through DNS Configuration](./Resolving-Email-Authentication-Issue-Through-DNS-Configuration.md)** | Resolved ain email authentication issue by identifying and correcting an incomplete DKIM record, resolving provider validation errors while isolating remaining email deliverability issues. |
 
 ---
 
