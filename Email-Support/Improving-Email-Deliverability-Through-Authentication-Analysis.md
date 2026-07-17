@@ -1,4 +1,4 @@
-### **Improving Email Deliverability Through Authentication Analysis**
+## **Improving Email Deliverability Through Authentication Analysis**
 
 #### **Situation**
 
