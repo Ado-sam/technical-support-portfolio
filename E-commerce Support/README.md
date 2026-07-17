@@ -17,8 +17,7 @@ This category contains real-world technical support case studies demonstrating e
 | Case Study | Summary |
 |------------|---------|
 | **[Diagnosing WooCommerce Express Checkout Issues](./Diagnosing-WooCommerce-Express-Checkout-Issues.md)** | Investigated inconsistent WooCommerce checkout behavior by isolating product configuration from Express Checkout settings, identifying automatically enabled Google Pay as a contributing factor, and preserving the existing payment gateway configuration. |
-| **Case Study Title** | One-sentence description of the issue and resolution. |
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Triaging Ecommerce Order Confirmation Issues](./Triaging-Ecommerce-Order-Confirmation-Issues.md)** | Investigated WooCommerce email and checkout issues on an externally hosted store, established support boundaries, and provided a structured diagnostic workflow to isolate whether the issue originated from WooCommerce configuration, checkout behavior, or the hosting environment. |
 
 ---
 
