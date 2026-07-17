@@ -1,4 +1,4 @@
-### **Resolving Email Authentication Issue Through DNS Configuration**
+## **Resolving Email Authentication Issue Through DNS Configuration**
 
 #### **Situation**
 
