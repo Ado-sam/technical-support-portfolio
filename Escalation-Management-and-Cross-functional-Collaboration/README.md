@@ -18,7 +18,7 @@ This category contains real-world technical support case studies demonstrating e
 |------------|---------|
 | **[Preventing an Unnecessary Escalation Through Domain Mapping Analysis](./Preventing-an-Unnecessary-Escalation-Through-Domain-Mapping-Analysis.md)** | Prevented an unnecessary engineering escalation by identifying a domain mapping conflict as the root cause, providing an evidence-based resolution path before considering cross-functional involvement. |
 | **[Coordinating a Cross-Functional Infrastructure Investigation](./Coordinating-a-Cross-Functional-Infrastructure-Investigation.md)** | Coordinated a complex infrastructure investigation by consolidating multiple platform issues into prioritized engineering workstreams, enabling efficient cross-functional collaboration and a structured path toward root cause resolution. |
-| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **[Coordinating Recovery of Product Authentication Failure](./Coordinating-Recovery-of-Product-Authentication-Failure.md)** | Identified a parked domain caused by an unresolved chargeback as the root cause of Jetpack authentication failures, establishing the correct recovery sequence and preparing the case for targeted cross-functional escalation. |
 
 ---
 
