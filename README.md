@@ -131,22 +131,22 @@ The case studies in this portfolio demonstrate experience supporting, troublesho
 
 Explore a selection of case studies that highlight technical troubleshooting, customer communication, and problem-solving across different support scenarios.
 
-### [Diagnosing A Dashboard Plugin Conflict.](./diagnosing-a-dashboard-plugin-conflict.md)
+### [Diagnosing A Dashboard Plugin Conflict.](../diagnosing-a-dashboard-plugin-conflict.md)
 
 Demonstrated systematic root cause analysis by isolating a complex JavaScript plugin conflict through structured troubleshooting, restoring dashboard functionality while minimizing disruption to the customer's live site.
 → **Technical Investigations & Root Cause Analysis**
 
-### [Resolving a Domain Mapping Conflict](./Resolving-a-Domain-Mapping-Conflict.md)
+### [Resolving a Domain Mapping Conflict](../Resolving-a-Domain-Mapping-Conflict.md)
 
 Showcased evidence-based DNS troubleshooting by identifying a domain configuration conflict that eliminated the need for unnecessary escalation and guided the customer directly to the correct solution.
 → **Domains & DNS**
 
-### [Improving Email Deliverability Through Authentication Analysis.md](./Improving-Email-Deliverability-Through-Authentication-Analysis.md)
+### [Improving Email Deliverability Through Authentication Analysis.md](../Improving-Email-Deliverability-Through-Authentication-Analysis.md)
 
 Demonstrated cross-platform diagnostic expertise by narrowing a complex email deliverability issue into targeted DNS authentication and external email provider improvements, providing a comprehensive long-term solution.
 → **Email Support**
 
-### [Diagnosing Website Ownership on Amazon AWS](./Diagnosing-Website-Ownership-on-Amazon-AWS.md)
+### [Diagnosing Website Ownership on Amazon AWS](../Diagnosing-Website-Ownership-on-Amazon-AWS.md)
 
 Demonstrated strong systems thinking by identifying external hosting as the true source of a website recovery issue, clarifying platform responsibilities, and providing a structured recovery path across multiple services.
 → **Integrations & API Troubleshooting**
