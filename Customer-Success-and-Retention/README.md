@@ -18,6 +18,7 @@ This category contains real-world technical support case studies demonstrating e
 |------------|---------|
 | **[Preserving a Long-Standing Website Through Recovery Planning](./Preserving-a-Long-Standing-Website-Through-Recovery-Planning.md)** | Turned a potentially lost 20-year website into a structured recovery effort by providing multiple recovery paths, setting clear expectations, and proactively guiding the customer toward preserving their content despite account recovery limitations. |
 | **[Developing a Long-Term Domain and URL Strategy](./Developing-a-Long-Term-Domain-and-URL-Strategy.md)** | Strengthened long-term customer success by providing a future-proof domain and URL strategy that minimized business risk, supported SEO continuity, and enabled informed planning for sustainable website growth. |
+| **[Clarifying Website Traffic Patterns to Address Security Concerns](./Clarifying-Website-Traffic-Patterns-to-Address-Security-Concerns.md)** | Strengthened customer confidence by explaining unusual traffic patterns, distinguishing crawler activity from security threats, and providing proactive guidance on interpreting website analytics. |
 
 
 ---
