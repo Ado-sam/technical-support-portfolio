@@ -1,0 +1,25 @@
+# **Escalation Management & Cross-functional Collaboration**
+
+## Overview
+
+This category contains real-world technical support case studies demonstrating experience resolving issues related to **complex technical issues requiring escalation, cross-functional collaboration, stakeholder coordination, issue ownership, and driving cases to resolution across multiple teams**. The examples highlight technical troubleshooting, customer communication, systematic investigation, and solution-oriented support across a variety of customer scenarios.
+
+## Skills Demonstrated
+
+- Effective case ownership and escalation management
+- Cross-functional collaboration and stakeholder coordination
+- Technical investigation and issue documentation
+- Customer communication and expectation management
+- Root cause analysis and resolution tracking
+
+## Case Studies
+
+| Case Study | Summary |
+|------------|---------|
+| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **Case Study Title** | One-sentence description of the issue and resolution. |
+| **Case Study Title** | One-sentence description of the issue and resolution. |
+
+---
+
+**⬅️ Return to the [Technical Support Portfolio](../README.md)**
