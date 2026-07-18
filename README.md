@@ -131,7 +131,7 @@ The case studies in this portfolio demonstrate experience supporting, troublesho
 
 Explore a selection of case studies that highlight technical troubleshooting, customer communication, and problem-solving across different support scenarios.
 
-### [Diagnosing A Dashboard Plugin Conflict.](./Technical-Investigations-and-Root-Cause-Analysis/diagnosing-a-dashboard-plugin-conflict.md)
+### [Diagnosing A Dashboard Plugin Conflict.](./Technical%20Investigations%20and%20Root%20Cause%20Analysis/diagnosing-a-dashboard-plugin-conflict.md)
 
 Demonstrated systematic root cause analysis by isolating a complex JavaScript plugin conflict through structured troubleshooting, restoring dashboard functionality while minimizing disruption to the customer's live site.
 → **Technical Investigations & Root Cause Analysis**
