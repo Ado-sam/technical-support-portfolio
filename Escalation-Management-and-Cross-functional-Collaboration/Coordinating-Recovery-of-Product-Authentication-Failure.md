@@ -1,4 +1,4 @@
-## **Coordinating Recovery of a Jetpack Authentication Failure**
+## **Coordinating Recovery of Product Authentication Failure**
 
 #### **Situation**
 
