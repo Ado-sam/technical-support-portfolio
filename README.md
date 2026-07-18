@@ -134,22 +134,26 @@ Explore a selection of case studies that highlight technical troubleshooting, cu
 ### [Diagnosing A Dashboard Plugin Conflict.](./Technical%20Investigations%20and%20Root%20Cause%20Analysis/diagnosing-a-dashboard-plugin-conflict.md)
 
 Demonstrated systematic root cause analysis by isolating a complex JavaScript plugin conflict through structured troubleshooting, restoring dashboard functionality while minimizing disruption to the customer's live site.
+
 → **Technical Investigations & Root Cause Analysis**
 
 ### [Resolving a Domain Mapping Conflict](./Domains-and-DNS/Resolving-a-Domain-Mapping-Conflict.md)
 
 Showcased evidence-based DNS troubleshooting by identifying a domain configuration conflict that eliminated the need for unnecessary escalation and guided the customer directly to the correct solution.
+
 → **Domains & DNS**
 
 ### [Improving Email Deliverability Through Authentication Analysis.md](./Email-Support/Resolving-Email-Authentication-Issue-Through-DNS-Configuration.md)
 
 Demonstrated cross-platform diagnostic expertise by narrowing a complex email deliverability issue into targeted DNS authentication and external email provider improvements, providing a comprehensive long-term solution.
+
 → **Email Support**
 
 ### [Diagnosing Website Ownership on Amazon AWS](./Integrations-and-API-Troubleshooting/Diagnosing-Website-Ownership-on-Amazon-AWS.md)
 
 
 Demonstrated strong systems thinking by identifying external hosting as the true source of a website recovery issue, clarifying platform responsibilities, and providing a structured recovery path across multiple services.
+
 → **Integrations & API Troubleshooting**
 
 
