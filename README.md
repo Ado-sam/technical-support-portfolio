@@ -131,21 +131,25 @@ The case studies in this portfolio demonstrate experience supporting, troublesho
 
 Explore a selection of case studies that highlight technical troubleshooting, customer communication, and problem-solving across different support scenarios.
 
-- **Restoring Site Styling After Migration**  
-  Diagnosed and resolved website styling issues following a domain migration by identifying asset-loading and configuration problems.  
-  → *Website Performance*
+### Diagnosing a Dashboard Plugin Conflict
 
-- **Resolving Microsoft 365 Email Delivery Issues**  
-  Investigated email routing and DNS configuration to restore reliable email delivery.  
-  → *Email Support*
+Demonstrated systematic root cause analysis by isolating a complex JavaScript plugin conflict through structured troubleshooting, restoring dashboard functionality while minimizing disruption to the customer's live site.
+→ **Technical Investigations & Root Cause Analysis**
 
-- **Troubleshooting WooCommerce Payment Failures**  
-  Identified the root cause of recurring payment issues through systematic investigation and platform analysis.  
-  → *Ecommerce*
+### Resolving a Domain Mapping Conflict
 
-- **Resolving Domain & DNS Configuration Issues**  
-  Guided the customer through DNS troubleshooting and propagation checks to restore website functionality.  
-  → *Domains & DNS*
+Showcased evidence-based DNS troubleshooting by identifying a domain configuration conflict that eliminated the need for unnecessary escalation and guided the customer directly to the correct solution.
+→ **Domains & DNS**
+
+### Improving Email Deliverability Through Authentication Analysis
+
+Demonstrated cross-platform diagnostic expertise by narrowing a complex email deliverability issue into targeted DNS authentication and external email provider improvements, providing a comprehensive long-term solution.
+→ **Email Support**
+
+### Diagnosing Website Ownership on Amazon AWS
+
+Demonstrated strong systems thinking by identifying external hosting as the true source of a website recovery issue, clarifying platform responsibilities, and providing a structured recovery path across multiple services.
+→ **Integrations & API Troubleshooting**
 
 
 ---
