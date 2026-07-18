@@ -40,4 +40,5 @@ The customer understood that the domain transfer had not deleted their website a
 * Proactive problem solving
 * Technical communication
 
+---
 ⬅️ **Return to [Customer Success and Retention](./README.md)**
