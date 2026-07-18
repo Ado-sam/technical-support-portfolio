@@ -14,8 +14,8 @@ Select a category below to explore real-world technical support case studies dem
 - [Integrations & API Troubleshooting](./Integrations-and-API-Troubleshooting/)
 - [Domains & DNS](./Domains-and-DNS/)
 - [Email Support](./Email-Support/)
-- [E-commerce Support](./E-commerce-Support/)
-- [Billing, Subscriptions & Account Management](./Billing-Subscriptions-and-Account-Management/)
+- [E-commerce Support](./E-commerce%20Support/)
+- [Billing, Subscriptions & Account Management](./Billing-Subscriptions-Account-Management/)
 - [Customer Success & Retention](./Customer-Success-and-Retention/)
 - [Escalation Management & Cross-functional Collaboration](./Escalation-Management-and-Cross-functional-Collaboration/)
 
