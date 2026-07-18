@@ -1,4 +1,4 @@
-### **Managing a Refund Request Through Solution Consultation**
+## **Managing a Refund Request Through Solution Consultation**
 
 #### **Situation**
 
