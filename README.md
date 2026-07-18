@@ -146,7 +146,8 @@ Showcased evidence-based DNS troubleshooting by identifying a domain configurati
 Demonstrated cross-platform diagnostic expertise by narrowing a complex email deliverability issue into targeted DNS authentication and external email provider improvements, providing a comprehensive long-term solution.
 → **Email Support**
 
-### [Diagnosing Website Ownership on Amazon AWS](../Diagnosing-Website-Ownership-on-Amazon-AWS.md)
+### [Diagnosing Website Ownership on Amazon AWS](./Integrations-and-API-Troubleshooting/Diagnosing-Website-Ownership-on-Amazon-AWS.md)
+
 
 Demonstrated strong systems thinking by identifying external hosting as the true source of a website recovery issue, clarifying platform responsibilities, and providing a structured recovery path across multiple services.
 → **Integrations & API Troubleshooting**
